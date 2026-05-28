@@ -1,4 +1,3 @@
-````markdown
 # 🩸 LifeLink - Blood Donation System
 
 LifeLink is a modern, responsive web application designed to streamline blood donation management and emergency blood requests. The system connects donors, hospitals, and blood banks in real-time to ensure efficient blood resource management.
@@ -55,6 +54,7 @@ python init_db.py
 # 4. Run application
 python run.py
 ```
+
 ````
 
 Open browser at: `http://127.0.0.1:5000`
@@ -81,3 +81,4 @@ lifelink/
 ```
 
 ```
+````
