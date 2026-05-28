@@ -7,19 +7,18 @@ LifeLink is a modern, responsive web application designed to streamline blood do
 
 ### Home Page
 
-![Home](screenshots/home.png)
-
+<img src="./screenshots/home.png" width="700">
 ### Admin Dashboard
 
-![Admin](screenshots/admin_dashboard.png)
+<img src="./screenshots/admin_dashboard.png" width="700">
 
 ### Blood Drives
 
-![Blood Drives](screenshots/blood_drives.png)
+<img src="./screenshots/blood_drives.png" width="700">
 
 ### Blood Bank Dashboard
 
-![Blood Bank](screenshots/blood_bank_dashboard.png)
+<img src="./screenshots/blood_bank_dashboard.png" width="700">
 
 ## Features
 
